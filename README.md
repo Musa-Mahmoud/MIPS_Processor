@@ -12,7 +12,6 @@ This GitHub repository contains the code and documentation for a simple 32-bit R
     - [Single Cycle Processor](#single-cycle-processor)
     - [Pipeline Processor](#pipeline-processor)
 6. [Getting Started](#getting-started)
-7. [License](#license)
 
 ## Introduction
 
@@ -79,9 +78,6 @@ To get started with this project, follow these steps:
 3. Choose which implementation (single cycle or pipeline) you want to work with.
 4. Install the logisim software for simulating digital logic circuits.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
